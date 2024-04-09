@@ -1,0 +1,6 @@
+bubble sort: The bubble sort algorithm’s average/worst time complexity is O(n²), as we have to pass through the array as many times as there are pairs in a provided array. Therefore, when time is a factor, there may be better options.
+Quick sort:Quicksort is a fast sorting algorithm that works by splitting a large array of data into smaller sub-arrays. This implies that each iteration works by splitting the input into two components, sorting them, and then recombining them. its average worst case is O(nlongn)
+merge sort: merge sort uses divide and conquier each iterations we split each part into 2 this part's worst case is O(logn) and in the end we need to recombine the elements in sorted manner which takes O(n). worst average case O(nlogn)
+
+linear search: O(n). we traverse all of the array in the worst case to find the element
+Binary search: O(logn): each time we divide the array into to parts and search one of those parts so worst case is O(logn).
